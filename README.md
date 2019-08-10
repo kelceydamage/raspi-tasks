@@ -11,6 +11,6 @@
 
 ##Functionality
 ###Installation
-To install run: `pip install raspi-rtl --upgrade .` from the project root directory.
+To install run: `pip install raspi-tasks --upgrade .` from the project root directory.
 
 Or run: `pip install --upgrade git+https://github.com/kelceydamage/raspi-tasks.git@master`
