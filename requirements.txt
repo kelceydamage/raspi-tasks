@@ -6,3 +6,4 @@ cbor
 numpy
 cython
 sklearn
+ujson
